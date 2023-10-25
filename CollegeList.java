@@ -179,7 +179,8 @@ public class CollegeList {
 						
 						break;
 					default:
-						 System.out.println("gago");
+						 System.out.println("Pleases try again");
+						continue;
 					}
 				
 			}
