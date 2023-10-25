@@ -185,7 +185,7 @@ public class CollegeList {
 			}
 			catch(InputMismatchException ime) {
 					System.err.println("Invalid input.");
-					//continue;
+					continue;
 			}
 		}
 	}
